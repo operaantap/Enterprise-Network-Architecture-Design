@@ -162,14 +162,6 @@ Next, I plan to integrate redundancy (STP, HSRP), add ACL-based security, and be
 
 ---
 
-## **📁 Repository Contents**
-
-* `Enterprise-Network-Design.pdf`
-* `README.md` (this file)
-* Optional: configuration files, images, diagrams
-
----
-
 ## **👤 Author**
 
 **Olayiwola Michael**
